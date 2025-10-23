@@ -19,7 +19,7 @@ Edit index.js to customize options
 
 Demo Link : https://spin-wheel-condev.netlify.app
 
-![Spin Wheel Demo](./assets/preview.png)  
+![Spin Wheel Demo]([./assets/img/preview.png))  
 
 📄 License
 MIT © [ConDev]
