@@ -17,7 +17,7 @@ Clone the repo
 Open index.html in your browser
 Edit index.js to customize options
 
-Demo Link : https://spin-wheel-condev.netlify.app
+Demo Link : https://spin-wheel-con.pages.dev
 
 Preview :
 ![Spin Wheel Demo](https://github.com/ConDevTp/Spin-Wheel/blob/main/assets/img/preview.png)
